@@ -1,0 +1,21 @@
+{
+  "prompt_text": "carbon fiber, extreme fine details,, extreme close up, reflective, clean,",
+  "prompt_image": {
+    "ext": "png",
+    "dtype": "uint8",
+    "width": 512,
+    "height": 512,
+    "url": "https://static-dev.withpoly.com/v3/textures/patches/9ecd4e31-5e0b-4c90-80b4-617346bc86f9.png",
+    "patch_id": "NpR2pXW6y6"
+  },
+  "upscale_prompt_text": "carbon fiber, extreme fine details,, extreme close up, reflective, clean,",
+  "upscale_resolution": 2048,
+  "is_seamless": true,
+  "pbr_mode": "polished",
+  "pbr_generate_color": true,
+  "pbr_generate_normal": true,
+  "pbr_generate_height": false,
+  "pbr_generate_ao": true,
+  "pbr_generate_roughness": true,
+  "pbr_generate_metallic": false
+}
