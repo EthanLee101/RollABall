@@ -1,0 +1,23 @@
+{
+  "prompt_text": "cartoon blue glow lava flourishing in swirl and black rock",
+  "patch": {
+    "ext": "png",
+    "dtype": "uint8",
+    "width": 512,
+    "height": 512,
+    "url": "https://static-dev.withpoly.com/v3/textures/patches/d040a98a-12af-4665-bf1e-eac80c5fb387.png",
+    "patch_id": "Kb9Hd9oBDA"
+  },
+  "seamless_prompt_text": "cartoon blue glow lava flourishing in swirl and black rock",
+  "seamless_patch_scale": 0.69,
+  "upscale_prompt_text": "cartoon blue glow lava flourishing in swirl and black rock",
+  "upscale_resolution": 2048,
+  "is_seamless": true,
+  "pbr_mode": "organic",
+  "pbr_generate_color": true,
+  "pbr_generate_normal": true,
+  "pbr_generate_height": true,
+  "pbr_generate_ao": true,
+  "pbr_generate_roughness": true,
+  "pbr_generate_metallic": false
+}
